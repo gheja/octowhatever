@@ -24,3 +24,13 @@ needed to be duplicated per similar tiles.
 On a map each tile represents a block.
 
 
+input
+-----
+
+Unified input. Each input channel has a pressure parameter, i.e. how
+strong the button is pressed on analog controllers, released or pressed
+on digital controllers (i.e. keyboard). There are special controllers as
+well, for example, the "left key" - using the "left key" only, the
+pressure parameter is at half of the maximum, holding the "run key"
+maximizes the pressure. (On an analog controller this would be "halfway"
+and "fully" pressed/tilted button/joystick.)
