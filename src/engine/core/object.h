@@ -1,0 +1,4 @@
+#ifndef ENGINE_CORE_OBJECT_H
+#define ENGINE_CORE_OBJECT_H
+
+#endif
